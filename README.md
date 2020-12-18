@@ -66,6 +66,8 @@ esig只为重要的函数服务！如果什么函数都想要用esig来编写出
 
 简易的函数，特征码等价于十六进制字节码，遇到动态的字节码使用通配符替换即可。
 
+![Eazy](README.assets/Eazy.png)
+
 特征码如下:
 
 ```
@@ -80,7 +82,7 @@ esig只为重要的函数服务！如果什么函数都想要用esig来编写出
 
 如果想制作函数内部的特征码，需要制作subFunc特征，SubFunc语法与Func一致
 
-![Eazy](README.assets/Eazy.png)
+![Func](README.assets/Func.png)
 
 ```
 *****SubFunc*****
